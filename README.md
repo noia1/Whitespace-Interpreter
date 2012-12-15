@@ -8,8 +8,8 @@ Explanation of Whitespace functions:
 http://compsoc.dur.ac.uk/whitespace/tutorial.php  
   
 My implementation of this Whitespace interpreter implements the required functions except:  
-- All flow control.  
-- Stack Manipulation:  
++ All flow control.  
++ Stack Manipulation:  
 * Duplicating the top item on the stack.  
 * Copying the nth item on the stack onto the top of the stack.  
 * Swap the two top items on the stack.  
