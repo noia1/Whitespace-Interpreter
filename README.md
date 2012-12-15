@@ -9,7 +9,7 @@ http://compsoc.dur.ac.uk/whitespace/tutorial.php
   
 My implementation of this Whitespace interpreter implements the required functions except:  
 1. All flow control.  
-2. Stack Manipulation:  
+2. Stack Manipulation:
 * Duplicating the top item on the stack.  
 * Copying the nth item on the stack onto the top of the stack.  
 * Swap the two top items on the stack.  
